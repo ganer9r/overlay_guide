@@ -29,6 +29,10 @@ samples, guidance on mobile development, and a full API reference.
     - main.dart 에서
       - overlay 참조
 
+  - 앱에서..
+    - 권한 설정 해야 함.
+    - 특히 오버레이 권한 필요.
+
 
 
 ## TODO
